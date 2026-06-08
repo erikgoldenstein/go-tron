@@ -38,8 +38,7 @@ body {
 .scoreboard-pane { top: 50%; left: 0; width: 25%; height: 25%; }
 .chart-pane { top: 75%; left: 0; width: 25%; height: 25%; font-size: .8rem; }
 .game-pane { top: 0; left: 50%; width: 50%; height: 100%; font-size: .8rem; }
-.schedule-pane { top: 0; left: 25%; width: 25%; height: 50%; font-size: .8rem; }
-.chat-pane { top: 50%; left: 25%; width: 25%; height: 50%; font-size: .8rem; }
+.chat-pane { top: 0; left: 25%; width: 25%; height: 100%; font-size: .8rem; }
 
 .score-title {
   margin-bottom: .5em;
